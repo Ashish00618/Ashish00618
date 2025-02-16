@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish00618
-- 👀 I’m interested in learning new technologies
+-I’m interested in learning new technologies
 
 
 <!---
